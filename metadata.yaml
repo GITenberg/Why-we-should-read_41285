@@ -1,0 +1,40 @@
+_repo: Why-we-should-read_41285
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41285-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mais, S. P. B. (Stuart Petre Brodie)
+    alias: Mais, Stuart Petre Brodie
+    birthdate: 1885
+    deathdate: 1975
+    gutenberg_agent_id: '41092'
+    url: http://www.gutenberg.org/2009/agents/41092
+description: ''
+gutenberg_issued: '2012-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41285'
+  lccn: '21020223'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- History and criticism'
+- !lcc 'PN'
+- !lcsh 'Books and reading -- Great Britain'
+- !lcsh 'Russian literature -- History and criticism'
+tableOfContents: 'pt. I. Some English classics: Tom Jones. Wuthering Heights. Charles
+  Lamb. James Boswell. William Hazlitt. Samuel Pepys. Walter Savage Landor. John Donne.
+  Such a book as The beggar''s opera -- pt. II. Some contemporaries: George Santayana.
+  The poems of Francis Brett-Young. The poems of Iris Tree. The poems of Aldous Huxley.
+  The poems of Robert Graves. J. D. Beresford. Night and day. E. C. Booth. Ford Madox
+  Hueffer. The ballad of the white horse. E. M. Forster. Sheila Kaye-Smith -- pt.
+  III. Books on the English language: A history of modern colloquial English. The
+  romance of words. The romance of names. The English language -- pt. IV. Certain
+  foreigners: Montaigne. Nekrassov. Pushkin. Lèrmontov. Gogol. Turgenev. Goncharov.
+  Dostoievsky. Tolstoy. Tchekov.'
+title: Why we should read--
+url: http://www.gutenberg.org/ebooks/41285
